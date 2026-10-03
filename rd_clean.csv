@@ -1,0 +1,143 @@
+country,year,rd_pct_gdp,status,status2,status3,is_break
+Australia,2010,2.172599178,Estimated value,,,False
+Australia,2011,2.105158998,Estimated value,,,False
+Australia,2013,2.083741877,Estimated value,,,False
+Australia,2015,1.873241527,Estimated value,,,False
+Australia,2017,1.788170341,Estimated value,,,False
+Australia,2019,1.789939296,Estimated value,,,False
+Australia,2021,1.658221012,Estimated value,,,False
+Australia,2023,1.682148487,Estimated value,,,False
+Canada,2010,1.825037454,,,,False
+Canada,2011,1.787140592,,,,False
+Canada,2012,1.773039748,Time series break,,,True
+Canada,2013,1.706245298,,,,False
+Canada,2014,1.714824517,Time series break,,,True
+Canada,2015,1.693594535,,,,False
+Canada,2016,1.729024677,,,,False
+Canada,2017,1.687018047,,,,False
+Canada,2018,1.737193465,,,,False
+Canada,2019,1.755776696,,,,False
+Canada,2020,1.934135455,,,,False
+Canada,2021,1.870638981,,,,False
+Canada,2022,1.844834732,,,,False
+Canada,2023,1.935484306,,,,False
+Canada,2024,1.792668031,Provisional value,,,False
+Canada,2025,1.805384057,Provisional value,,,False
+China (People’s Republic of),2010,1.684560861,,,,False
+China (People’s Republic of),2011,1.752446261,,,,False
+China (People’s Republic of),2012,1.880951529,,,,False
+China (People’s Republic of),2013,1.962460673,,,,False
+China (People’s Republic of),2014,1.984746732,,,,False
+China (People’s Republic of),2015,2.017032406,,,,False
+China (People’s Republic of),2016,2.059497185,,,,False
+China (People’s Republic of),2017,2.077706488,,,,False
+China (People’s Republic of),2018,2.102320196,,,,False
+China (People’s Republic of),2019,2.201430061,,,,False
+China (People’s Republic of),2020,2.357123977,,,,False
+China (People’s Republic of),2021,2.381645893,,,,False
+China (People’s Republic of),2022,2.494501536,,,,False
+China (People’s Republic of),2023,2.577284878,,,,False
+China (People’s Republic of),2024,2.692698924,,,,False
+France,2010,2.177715247,Time series break,,,True
+France,2011,2.187605273,,,,False
+France,2012,2.227617501,,,,False
+France,2013,2.233688191,,,,False
+France,2014,2.271723455,Time series break,,,True
+France,2015,2.224012693,,,,False
+France,2016,2.224683926,,,,False
+France,2017,2.204216425,,,,False
+France,2018,2.204068095,,,,False
+France,2019,2.196680397,,,,False
+France,2020,2.274201474,,,,False
+France,2021,2.2127829,,,,False
+France,2022,2.220574912,,,,False
+France,2023,2.175165889,Provisional value,,,False
+France,2024,2.178167291,Provisional value,,,False
+Germany,2010,2.677141377,,,,False
+Germany,2011,2.75105746,,,,False
+Germany,2012,2.826097354,,,,False
+Germany,2013,2.781443017,,,,False
+Germany,2014,2.822838427,,,,False
+Germany,2015,2.8759623,,,,False
+Germany,2016,2.884741723,,,,False
+Germany,2017,2.986808596,,,,False
+Germany,2018,3.047994485,,,,False
+Germany,2019,3.110452381,,,,False
+Germany,2020,3.088716876,,,,False
+Germany,2021,3.073686254,,,,False
+Germany,2022,3.043604611,Provisional value,,,False
+Germany,2023,3.128664165,Provisional value,,,False
+Germany,2024,3.131691834,Provisional value,,,False
+Japan,2010,3.104951313,,,,False
+Japan,2011,3.205366018,,,,False
+Japan,2012,3.173705284,,,,False
+Japan,2013,3.27895603,Time series break,,,True
+Japan,2014,3.367875199,,,,False
+Japan,2015,3.240707296,,,,False
+Japan,2016,3.106656458,,,,False
+Japan,2017,3.166356159,,,,False
+Japan,2018,3.219196015,Time series break,,,True
+Japan,2019,3.218237396,,,,False
+Japan,2020,3.26555705,,,,False
+Japan,2021,3.27382694,,,,False
+Japan,2022,3.400532198,,,,False
+Japan,2023,3.44124934,,,,False
+Japan,2024,3.623194577,Estimated value,,,False
+Korea,2010,3.179130089,,,,False
+Korea,2011,3.444101844,,,,False
+Korea,2012,3.685191076,,,,False
+Korea,2013,3.774874742,,,,False
+Korea,2014,3.889821059,,,,False
+Korea,2015,3.789078648,,,,False
+Korea,2016,3.786389673,,,,False
+Korea,2017,4.073405361,,,,False
+Korea,2018,4.27153981,,,,False
+Korea,2019,4.363781528,,,,False
+Korea,2020,4.521408849,,,,False
+Korea,2021,4.596725801,,,,False
+Korea,2022,4.847530126,,,,False
+Korea,2023,4.943523396,,,,False
+Korea,2024,5.125284062,Provisional value,,,False
+South Africa,2010,0.662839289,,,,False
+South Africa,2011,0.667534817,,,,False
+South Africa,2012,0.669339361,,,,False
+South Africa,2013,0.6632988,,,,False
+South Africa,2014,0.709866385,,,,False
+South Africa,2015,0.731467959,,,,False
+South Africa,2016,0.749922679,,,,False
+South Africa,2017,0.762566739,,,,False
+South Africa,2018,0.685859821,,,,False
+South Africa,2019,0.61304171,,,,False
+South Africa,2020,0.602962012,,,,False
+South Africa,2021,0.615217825,,,,False
+South Africa,2022,0.613772624,,,,False
+South Africa,2023,0.616860274,,,,False
+United Kingdom,2010,1.631474423,Estimated value,,,False
+United Kingdom,2011,1.639556991,,,,False
+United Kingdom,2012,1.568558664,Estimated value,,,False
+United Kingdom,2013,1.613970818,,,,False
+United Kingdom,2014,2.249718143,Time series break,Estimated value,Provisional value,True
+United Kingdom,2015,2.262008718,Estimated value,Provisional value,,False
+United Kingdom,2016,2.30534155,Estimated value,Provisional value,,False
+United Kingdom,2017,2.309668218,Estimated value,Provisional value,,False
+United Kingdom,2018,2.684860969,Time series break,Estimated value,Provisional value,True
+United Kingdom,2019,2.648127953,Provisional value,,,False
+United Kingdom,2020,2.910551979,Provisional value,,,False
+United Kingdom,2021,2.853168705,Provisional value,,,False
+United Kingdom,2022,2.782027464,Provisional value,,,False
+United Kingdom,2023,2.753363172,Provisional value,,,False
+United States,2010,2.714464663,Definition differs,,,False
+United States,2011,2.738014986,Definition differs,,,False
+United States,2012,2.672743951,Definition differs,,,False
+United States,2013,2.695933571,Definition differs,,,False
+United States,2014,2.708804304,Definition differs,,,False
+United States,2015,2.773279437,Time series break,Definition differs,,True
+United States,2016,2.836779941,Time series break,Definition differs,,True
+United States,2017,2.883153473,Definition differs,,,False
+United States,2018,2.989555451,Definition differs,,,False
+United States,2019,3.142978485,Definition differs,,,False
+United States,2020,3.414514176,Definition differs,,,False
+United States,2021,3.462447491,Time series break,Definition differs,,True
+United States,2022,3.484327191,Definition differs,,,False
+United States,2023,3.423455829,Time series break,Definition differs,,True
+United States,2024,3.444858189,Definition differs,Estimated value,,False
